@@ -171,3 +171,4 @@ def printColoredMessage(String message, String color = 'black') {
     }
 
 }
+
